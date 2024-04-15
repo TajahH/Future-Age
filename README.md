@@ -1,2 +1,2 @@
 # Future-Age
-first ada roject
+first ada project
